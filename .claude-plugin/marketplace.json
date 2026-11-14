@@ -1,0 +1,5 @@
+{
+  "name": "gpt-violet-theme",
+  "owner": { "name": "we1jia" },
+  "plugins": [{ "name": "gpt-violet", "source": "./" }]
+}
